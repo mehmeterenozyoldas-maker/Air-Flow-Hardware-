@@ -1,0 +1,8 @@
+{
+  "name": "Cyberfaçade",
+  "description": "An interactive architectural façade system using PoseNet, HandPose, and Agent-Based Modeling to respond to human presence and environmental sensors.",
+  "requestFramePermissions": [
+    "camera",
+    "serial"
+  ]
+}
